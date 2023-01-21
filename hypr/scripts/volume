@@ -32,7 +32,7 @@ notify_user() {
 
 # Increase Volume
 inc_volume() {
-	pactl set-sink-volume @DEFAULT_SINK@ 51% && get_icon && notify_user
+	pactl set-sink-volume @DEFAULT_SINK@ +5% && get_icon && notify_user
 }
 
 # Decrease Volume

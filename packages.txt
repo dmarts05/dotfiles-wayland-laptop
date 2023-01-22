@@ -43,6 +43,7 @@ lxappearance
 mako
 mesa
 nano
+neovim
 nerd-fonts-complete
 nm-connection-editor
 noto-fonts

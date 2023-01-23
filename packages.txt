@@ -41,6 +41,7 @@ libva-utils
 light
 lxappearance
 mako
+mpv
 mesa
 nano
 neovim
@@ -92,7 +93,6 @@ virtualbox-ext-oracle
 virtualbox-guest-iso
 virtualbox-host-modules-arch
 visual-studio-code-bin
-vlc
 waybar-hyprland-git
 wayland
 webapp-manager

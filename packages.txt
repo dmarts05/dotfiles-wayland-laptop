@@ -1,5 +1,6 @@
 auto-cpufreq
 bat
+blueman
 brave-bin
 brother-dcpl2520dw
 btop
@@ -41,8 +42,8 @@ libva-utils
 light
 lxappearance
 mako
-mpv
 mesa
+mpv
 nano
 neovim
 nerd-fonts-complete
@@ -55,6 +56,7 @@ p7zip
 papirus-folders-catppuccin-git
 papirus-icon-theme
 pavucontrol
+pfetch
 pipewire
 pipewire-alsa
 pipewire-audio
@@ -70,6 +72,7 @@ sddm-git
 sddm-theme-catppuccin-git
 simple-mtpfs
 slurp
+snap-pac
 snapper
 snapper-gui-git
 spotify
